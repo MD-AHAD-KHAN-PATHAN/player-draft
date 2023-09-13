@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "name": "Tamim Iqbal",
+        "age": 34,
+        "role":"Batsman",
+        "image": "https://i.ibb.co/Rvc67Cr/ar.jpg",
+        "salary": 45000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 2,
+        "name": "Shakib Al Hasan",
+        "age": 35,
+        "role":"All Rounder",
+        "image": "https://i.ibb.co/YQgHzvL/Stan-Lee-610719480.jpg",
+        "salary": 50000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "Mashrafi Murtaja",
+        "age": 36,
+        "role": "Bowler",
+        "image": "https://i.ibb.co/xS26VmL/download-1.jpg",
+        "salary": 45000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 4,
+        "name": "Mushfikur Rahim",
+        "age": 37,
+        "role":"Batsman & wk",
+        "image": "https://i.ibb.co/9nkpDDD/MV5-BMDlh-NGY4-Y2-Mt-Mj-A5-Ny00-Zm-Nk-LTgw-ZTkt-Njll-Yjhl-Mzlh-Zj-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTc0-OTcx.jpg",
+        "salary": 45000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 5,
+        "name": "Mahmudullah",
+        "age": 38,
+        "role":"All Rounder",
+        "image": "https://i.ibb.co/68dK4h5/47094270.jpg",
+        "salary": 40000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 6,
+        "name": "Mahidy Miraj",
+        "age": 25,
+        "role":"All Rounder",
+        "image": "https://i.ibb.co/w6cbRN4/Mark-Kassen-Tony-C-rdenas-and-Chris-Evans-cropped-1.jpg",
+        "salary": 35000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 7,
+        "name": "Taskin Ahmed",
+        "age": 27,
+        "role":"Bowler",
+        "image": "https://i.ibb.co/HdwLJ9M/thor.jpg",
+        "salary": 30000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 8,
+        "name": "Mustafizur Rahaman",
+        "age": 28,
+        "role":"Bowler",
+        "image": "https://i.ibb.co/Fn5LVFf/shutterstock-editorial-10473054j.jpg",
+        "salary": 30000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 9,
+        "name": "Liton Das",
+        "age": 27,
+        "role":"Batsman",
+        "image": "https://i.ibb.co/58pb8GJ/gettyimages-1140241611.jpg",
+        "salary": 30000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 10,
+        "name": "Nasum Ahmed",
+        "age": 30,
+        "role":"Bowler",
+        "image": "https://i.ibb.co/DRQWb5k/Scarlett-Johansson-Natasha-Romanoff-Avengers-Age-of.jpg",
+        "salary": 25000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 11,
+        "name": "Najmul I Shanto",
+        "age": 27 ,
+        "role":"Batsman",
+        "image": "https://i.ibb.co/w6RJrnt/Culture-Monitor-Renner-972293712.jpg",
+        "salary": 25000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 12,
+        "name": "Shofiul Islam",
+        "age": 34,
+        "role":"Bowler",
+        "image": "https://i.ibb.co/Z1C7T6B/76359987.jpg",
+        "salary": 30000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 13,
+        "name": "Rubal Hossain",
+        "age": 35,
+        "role":"Bowler",
+        "image": "https://i.ibb.co/C5T3MrQ/1334535-1599pxdave-bautista-28046179174-386856.jpg",
+        "salary": 35000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 14,
+        "name": "Affif Hossain",
+        "age": 26,
+        "role":"All Rounder",
+        "image": "https://i.ibb.co/86ys0m1/download.jpg",
+        "salary": 25000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+        
+    },
+    {
+        "id": 15,
+        "name": "Imrul Kayes",
+        "age": 34,
+        "role":"Batsman",
+        "image": "https://i.ibb.co/QnXmyzf/karen-gillan-1200.jpg",
+        "salary": 40000,
+        "country": "Bangladesh",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    }
+]
